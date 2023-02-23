@@ -1,0 +1,10 @@
+lightweight tag d7519d3a40da43d55d0320dc37d675d44b9a0815 v3.0.1
+Author:	Simon Hirsig <simon.hirsig@gmail.com>
+Date:	Sat Feb 11 11:28:29 2023 +0100
+
+commit d7519d3a40da43d55d0320dc37d675d44b9a0815
+Author: Simon Hirsig <simon.hirsig@gmail.com>
+Date:   Sat Feb 11 11:28:29 2023 +0100
+
+    interface version update
+

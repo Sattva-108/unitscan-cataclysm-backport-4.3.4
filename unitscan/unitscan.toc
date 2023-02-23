@@ -1,0 +1,7 @@
+## Interface: 40300
+## Author: shirsig, backport by Sattva
+## Title: unitscan
+## Version: v1.0
+## Notes: Unit scanner with flashy alert
+## SavedVariables: unitscan_targets
+unitscan.lua
