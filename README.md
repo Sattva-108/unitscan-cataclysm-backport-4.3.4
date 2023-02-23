@@ -8,6 +8,7 @@ There are two commands:
 - **/unitscan** - lists the active scan targets
 - **/unitscan name** - adds/removes name to/from the scan targets
 
+***To move addon window simply :*** Ctrl-click and drag.
 ## Install
 - **[Download](https://github.com/Sattva-108/unitscan-cataclysm-backport-4.3.4/releases/download/v1.0.0/unitscan.rar)** latest version in releases named "unitscan.rar"
 - Extract rar file
