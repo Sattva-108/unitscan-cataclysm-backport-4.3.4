@@ -9,7 +9,7 @@ There are two commands:
 - **/unitscan name** - adds/removes name to/from the scan targets
 
 ## Install
-- **[Download](https://github.com/Sattva-108/unitscan-cataclysm-backport-4.3.4/releases/download/v1.0.0/unitscan.rar)** latest version in releases named "unitscan.zip"
-- Extract zip file
+- **[Download](https://github.com/Sattva-108/unitscan-cataclysm-backport-4.3.4/releases/download/v1.0.0/unitscan.rar)** latest version in releases named "unitscan.rar"
+- Extract rar file
 - Move sub folder named "unitscan" to Interface/AddOns
 - Enjoy!
